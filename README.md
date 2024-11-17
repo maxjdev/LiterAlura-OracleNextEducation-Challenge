@@ -2,7 +2,7 @@
 
 # LiterAlura - Challenge ONE
 
-![ONE](img/literalura.png)
+<img src="img/literalura.png" width="250"/>
 
 ## Oracle Next Education + Alura
 
