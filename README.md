@@ -2,6 +2,8 @@
 
 # LiterAlura - Challenge ONE
 
+![ONE](img/literalura.png)
+
 ## Oracle Next Education + Alura
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,5 +45,6 @@ Essa API é construída utilizando o Java com Spring Boot e tem como objetivo im
 <hr>
 
 ### Contruibuição
+
 - Para contribuir, bifurque este repositório e envie suas alterações por meio de pull requests.
 - Para relatórios de bugs ou sugestões de melhorias, abra um problema na página do projeto.
